@@ -1,4 +1,4 @@
-obj-m += driver_client.o
+obj-m += driver.o
 
 KDIR := /lib/modules/$(shell uname -r)/build
 PWD  := $(shell pwd)

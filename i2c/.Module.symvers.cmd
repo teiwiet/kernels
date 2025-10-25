@@ -1,0 +1,1 @@
+savedcmd_/home/teiwiet/Main/kernels/i2c/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/teiwiet/Main/kernels/i2c/Module.symvers -n -T /home/teiwiet/Main/kernels/i2c/modules.order -i Module.symvers -e 

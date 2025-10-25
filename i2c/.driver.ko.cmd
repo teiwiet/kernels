@@ -1,0 +1,1 @@
+savedcmd_/home/teiwiet/Main/kernels/i2c/driver.ko := arm-linux-gnueabihf-ld -r -EL -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/arm/module.lds -o /home/teiwiet/Main/kernels/i2c/driver.ko /home/teiwiet/Main/kernels/i2c/driver.o /home/teiwiet/Main/kernels/i2c/driver.mod.o /home/teiwiet/Main/kernels/i2c/.module-common.o
